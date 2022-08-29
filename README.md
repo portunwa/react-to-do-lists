@@ -17,6 +17,7 @@ Due date: 01-09-2022
 ## Working Process
 
 Day 1 | Initialize the project, create the project structure, install the dev tools, draft UI and backend
+
 Now | Working on frontend and connect to backend.
 
 
